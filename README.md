@@ -1,2 +1,2 @@
-# Unimed-BH---Ci-ncia-de-Dados
+# Unimed-BH - Ciência de Dados
 Analises de dados em python com a biblioteca PANDAS
